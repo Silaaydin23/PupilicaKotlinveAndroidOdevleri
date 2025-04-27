@@ -10,7 +10,7 @@ fun main() {
     val cevre = f.cevreHesapla(10,20)
 
    val faktoriyel = f.faktoriyelHesapla(7)
-    println("${faktoriyel} faktoriyel")
+    println("${faktoriyel} faktoriyeldir")
 
     val sayi = f.say("Ataturk")
 

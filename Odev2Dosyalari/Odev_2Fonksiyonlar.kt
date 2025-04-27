@@ -32,7 +32,7 @@ class Odev_2Fonksiyonlar {
                 sayi += 1
             }
         }
-        println("${sayi} tane a harfi vardir.")
+        println("${sayi} tane a harfi vardir")
     }
 
 
