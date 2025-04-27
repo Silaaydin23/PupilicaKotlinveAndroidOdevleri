@@ -1,0 +1,50 @@
+package com.example.kotlin2.derss
+
+fun main() {
+    val sehir = "Mersin"
+    val ulke = "Türkiye"
+    val telefon = "5408256472"
+    val posta_kodu = "33110"
+    val email = "pupilica@gmail.com"
+    val meslek = "Bilgisayar Mühendisliği"
+    var stok_miktari = 328
+    var musteriAdi = "Ata"
+    var bakiye = 12954
+    val dogum_gunu = "19 Mayıs 1919"
+    var maas = 70002
+    var medeni_durum = "Evli"
+    var urun_yorum = 3269
+    var odeme_tarihi = "23 Nisan 1920"
+    var odeme = "Nakit"
+    var siparis_adeti = 12
+    val araba_modeli = "M4 Competition"
+    val kitapAdi = "Beyaz Zambaklar Ülkesinde"
+    val yayinlanma_tarihi = "01.01.2001"
+    var indirim_miktari = 0.4
+    val odaSayisi = 6
+    val enlem = 15
+    val boylam = 25
+    var urunAdi = "Kolye"
+    var yemek_fiyati = 350
+    var marka = "Logitech"
+    var muzikAdi = "Altaylardan Tunaya"
+    var video_suresi = 3.20
+    var urun_puani = 3.8
+    var resimAdi = "Piyano"
+    val dosya_formati = ".doc"
+    var renk = "Mavi"
+    var renk_kodu = "F124SC6A"
+    val telefon_modeli = "10 X"
+    var ekran_boyutu = "10.2"
+    var agirlik = 0.32
+    val ulusal_gun = "29 Ekim 1923"
+    var tatil_gunu = "29.06.2025"
+    var rezervasyon_tarihi = "24 Nisan 2025"
+    var sokakAdi = "Cumhuriyet"
+    var otobus_hatti = "145T"
+    var kalan_dakika = 367
+    val takip_kodu = 3241002514578
+    var kupon_suresi = "1 gün 19 saat"
+    var kupon_kodu = "DERBİ75"
+    var fatura_adresi = "Hürriyet Mah. İstiklal Caddesi 1204. Sok. Kadıköy/İstanbul"
+}
