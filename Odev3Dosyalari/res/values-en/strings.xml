@@ -1,0 +1,27 @@
+<resources>
+    <string name="theburgeratelier">Tasarimim</string>
+    <string name="marka_baslik">The Burger Atelier</string>
+    <string name="burger_adi">Blaze Burger®</string>
+    <string name="fiyat">$ 7,27</string>
+    <string name="icerik">(Beef), 5" bread, pickle, lettuce, tomato, onion, ketchup, mayonnaise</string>
+    <string name="cikarilabilir_malzeme">Removable Material (Blaze®)</string>
+    <string name="tursu">Pickle</string>
+    <string name="gobek_salata">Lettuce</string>
+    <string name="domates">Tomato</string>
+    <string name="sogan">Onion</string>
+    <string name="peynir">Cheese</string>
+    <string name="ketcap">Ketchup</string>
+    <string name="mayonez">Mayonnaise</string>
+    <string name="ekstra_malzeme">Extra Material</string>
+    <string name="hardal">Mustard</string>
+    <string name="aci_sos">Hat Sauce</string>
+    <string name="buffalo_sos">Buffalo Sauce</string>
+    <string name="ranch_sos">Ranch Sauce</string>
+    <string name="urun_notu">Product Note</string>
+    <string name="ürün_ek_not">If you have any allergies or would like to tell us anything about the product, please let us know.</string>
+    <string name="notlar">Notes</string>
+    <string name="eksi">-</string>
+    <string name="bir">1</string>
+    <string name="arti">+</string>
+    <string name="sepete_ekle">Add To Cart</string>
+</resources>

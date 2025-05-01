@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#F57C00</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="turuncu">#D58209</color>
+    <color name="kirmizi">#C1120B</color>
+    <color name="yesil">#538A17</color>
+    <color name="mor">#FFFFFF</color>
+    <color name="pembe">#811242</color>
+</resources>

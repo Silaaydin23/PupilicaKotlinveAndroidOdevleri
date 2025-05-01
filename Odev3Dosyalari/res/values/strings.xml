@@ -1,0 +1,27 @@
+<resources>
+    <string name="theburgeratelier">The Burger Atelier</string>
+    <string name="marka_baslik">The Burger Atelier</string>
+    <string name="burger_adi">Blaze Burger®</string>
+    <string name="fiyat">280,00 TL</string>
+    <string name="icerik">(Dana eti), 5" ekmek, turşu, göbek salata, domates, soğan, ketçap, mayonez</string>
+    <string name="cikarilabilir_malzeme">Çıkarılabilir Malzeme (Blaze®)</string>
+    <string name="tursu">Turşu</string>
+    <string name="gobek_salata">Göbek Salata</string>
+    <string name="domates">Domates</string>
+    <string name="sogan">Soğan</string>
+    <string name="peynir">Peynir</string>
+    <string name="ketcap">Ketçap</string>
+    <string name="mayonez">Mayonez</string>
+    <string name="ekstra_malzeme">Ekstra Malzeme</string>
+    <string name="hardal">Hardal</string>
+    <string name="aci_sos">Acı Sos</string>
+    <string name="buffalo_sos">Buffalo Sos</string>
+    <string name="ranch_sos">Ranch Sos</string>
+    <string name="urun_notu">Ürün Notu</string>
+    <string name="ürün_ek_not">Alerjiniz ya da ürünle ilgili bize aktarmak istediğiniz bir şey varsa bize bildirin.</string>
+    <string name="notlar">Notlar</string>
+    <string name="eksi">-</string>
+    <string name="bir">1</string>
+    <string name="arti">+</string>
+    <string name="sepete_ekle">Sepete Ekle</string>
+</resources>
